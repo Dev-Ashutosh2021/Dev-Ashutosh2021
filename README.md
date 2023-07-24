@@ -7,8 +7,6 @@
 
 - 👯 I’m looking to collaborate on **Web Projects**
 
-- 📝 I regularly write articles on [Nothing](Nothing)
-
 - 💬 Ask me about **Anything**
 
 <h3 align="left">Languages and Tools:</h3>
