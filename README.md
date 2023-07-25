@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://s11.gifyu.com/images/ScpPZ.gif" height="210px" align="right" />
+<img  src="https://s11.gifyu.com/images/ScpPZ.gif" height="210px"/>
 
 - 🔭 I’m currently working on Something Interesting.
 
