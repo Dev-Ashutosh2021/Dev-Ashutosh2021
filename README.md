@@ -6,7 +6,7 @@
 
 ## 👨🏻‍💻 About Me:
 
-<img  src="https://i.ibb.co/vBxK6Yr/thoughtworks-gif-dribbble.gif" height="230px" align="right" />
+<img  src="https://i.ibb.co/vBxK6Yr/thoughtworks-gif-dribbble.gif" height="210px" align="right" />
 
 - 🔭 I’m currently working on Something Interesting.
 
@@ -47,5 +47,5 @@
 
 ## ❤️ Let's get connected:
 
- <a href="https://www.linkedin.com/in/soumyajit4419/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
+ <a href="www.linkedin.com/in/ashutosh-uniyal" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"  height="30px"/></a>
 </p>
